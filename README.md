@@ -1,4 +1,4 @@
-# RL-PathfindingAgent
+# RL Pathfinding Agent
 
 ## How to Run
 
